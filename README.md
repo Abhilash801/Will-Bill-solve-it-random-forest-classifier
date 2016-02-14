@@ -4,7 +4,7 @@ A classifier using using random forest and knn techiniques. Coded it as part of 
 # About
 Coded it as a jupyter ipython notebook. All results and comments are available in the notebook itself. 
 
-*********** random forest evaluation mertrics acheived ********
+### random forest evaluation mertrics acheived 
 
 -accuracy 0.798
 -precision 0.546
