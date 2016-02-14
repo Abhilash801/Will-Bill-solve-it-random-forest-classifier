@@ -1,14 +1,11 @@
 # Will-Bill-solve-it-random-forest-classifier
-A classifier using using random forest and knn techiniques. Coded it as part of a challenge on HackerEarth
+A classifier using using random forest and knn techiniques. Coded it as part of a challenge on HackerEarth.Coded in jupyter ipython notebook. All results and comments are available in the notebook itself. 
 
-# About
-Coded it as a jupyter ipython notebook. All results and comments are available in the notebook itself. 
+##### random forest evaluation mertrics acheived 
 
-### random forest evaluation mertrics acheived 
-
--accuracy 0.798
--precision 0.546
--recall 0.311
+- accuracy 0.798
+- precision 0.546
+- recall 0.311
 
 Accuracy on test data of #1 in the challenge was .834
 
