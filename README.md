@@ -6,9 +6,9 @@ Coded it as a jupyter ipython notebook. All results and comments are available i
 
 *********** random forest evaluation mertrics acheived ********
 
-accuracy 0.798
-precision 0.546
-recall 0.311
+-accuracy 0.798
+-precision 0.546
+-recall 0.311
 
 Accuracy on test data of #1 in the challenge was .834
 
