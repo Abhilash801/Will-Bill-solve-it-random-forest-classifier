@@ -12,6 +12,6 @@ positive to negative observations in the training data are in the ration 1:4. Th
 Accuracy on test data of #1 in the challenge was .834
 
 
-### challenge and dataset link
+##### challenge and dataset link
 https://www.hackerearth.com/machine-learning-india-hacks-2016/machine-learning/will-bill-solve-it/
 
